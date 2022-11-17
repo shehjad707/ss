@@ -2,11 +2,8 @@
 void sum();
 int main()
 {
-
-
 	printf("in sum...\n");
 	sum();
-
 }
 void sum()
 {
