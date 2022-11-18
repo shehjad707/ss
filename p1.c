@@ -19,3 +19,4 @@ void sub()
 	int x=20,y=10,res;
 	printf("res=%d\n",x-y);
 }
+//bhai kitne baar karte aap
